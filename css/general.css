@@ -1,0 +1,39 @@
+/* Css Document */
+
+html{
+    font-family: roboto-light, Helvetica, sans-serif;
+}
+
+body{
+    background-color: #1D2F46;
+    border-top: 2px dotted #FFDAB9;
+    border-bottom: 2px dotted #FFDAB9;
+}
+
+h1,
+h2{
+    font-family: roboto-regular, Helvetica, sans-serif;
+    color: #FFDAB9;
+}
+
+p{
+    font-size: 1rem;
+    line-height: 1.5rem;
+}
+
+li{
+    font-family:roboto-medium, helvetica, sans-serif;   
+    color: #A3D9D8;
+}
+
+p{
+    background-color: #FFDAB9;
+}
+
+em{
+    font-family: roboto-lightitalic;
+}
+
+strong{ 
+    font-family: robotoCondensed-regular;
+}
